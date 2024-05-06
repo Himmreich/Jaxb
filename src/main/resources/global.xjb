@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <jxb:bindings
-    xmlns:jxb="https://jakarta.ee/xml/ns/jaxb"
+    xmlns:jxb="http://java.sun.com/xml/ns/jaxb"
     xmlns:xjc="http://java.sun.com/xml/ns/jaxb/xjc"
-    jxb:version="3.0">
+    jxb:version="1.0">
     <jxb:bindings>
         <jxb:globalBindings>
             <xjc:simple/>
