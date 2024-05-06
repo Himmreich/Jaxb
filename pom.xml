@@ -9,12 +9,12 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>jaxb21</artifactId>
+    <artifactId>jaxb22</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>jaxb21</name>
-    <description>jaxb21</description>
+    <name>jaxb22</name>
+    <description>jaxb22</description>
     <properties>
-        <java.version>21</java.version>
+        <java.version>22</java.version>
     </properties>
     <dependencies>
         <dependency>
@@ -56,7 +56,7 @@
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>jaxb2-maven-plugin</artifactId>
-                <version>3.1.0</version>
+                <version>3.2.0</version>
                 <executions>
                     <execution>
                         <id>xjc</id>
